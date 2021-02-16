@@ -1,0 +1,19 @@
+Created on 15/02/2021
+
+Problems: Qalculator.html is opening in internet explorer is there anyway 
+to launch this in a different browser, the anwser is yes. 
+
+How to open Qalculator.html in a different browser?:
+
+-=-=-=-=-=-=-=-=Changing the web browser-=-=-=-=-=-=-=-=
+Right click Qalculator.html after that hold your mouse on open with after that 
+click choose a another app after that select your browser after that click ok. 
+
+-=-=-=-=-=-=-=-=Changing the web browser permanent-=-=-=-=-=-=-=-=
+if you want it to be permanent do the same but wait with selecting your browser you first 
+have to select the checkbox after that you can select your browser and click ok. 
+
+-=-=-=-=-=-=-=-=The file is still internet explorer-=-=-=-=-=-=-=-=
+is your browser still internet explorer?: Before doing this make sure you did the step:
+Changing the web browser or Changing the web browser permanent, did it?: than restrart 
+your computer by clicking the Restart Qalculator.bat
